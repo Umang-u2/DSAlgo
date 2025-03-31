@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d6103d-a4f4-4ce3-9237-4bd1e2d899bd" name="Changes" comment="" />
+    <list default="true" id="d3d6103d-a4f4-4ce3-9237-4bd1e2d899bd" name="Changes" comment="Folder structure">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data-structures/arrays/CheckMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data-structures/arrays/DisappearedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data-structures/arrays/FindLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data-structures/arrays/GreatestElementOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data-structures/arrays/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data-structures/arrays/ThirdMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/CheckIFNAndDoubleExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/DisappearedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/DuplicateZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/FindNumbersWithEvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/MountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/RemoveAllOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/RemoveDuplicatesFromSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/ReplaceElementsWithGreatestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/SortedSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problems/arrays/ThirdHighestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +57,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/problems/array-problems" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\upadhuma\DSAlgoPractice\src\main\java\problems\array-problems" />
+      <recent name="C:\Users\upadhuma\DSAlgoPractice\src\main\java\data-structures\arrays" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1743435090045</updated>
     </task>
+    <task id="LOCAL-00001" summary="Folder structure">
+      <created>1743437262065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743437262065</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Folder structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folder structure" />
   </component>
 </project>
